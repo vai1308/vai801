@@ -1,0 +1,4 @@
+# The given code is python code for the computer to choose a random number
+
+import random
+random.randint(x, y) # where x and y are numbers in between which the computer has to choose
